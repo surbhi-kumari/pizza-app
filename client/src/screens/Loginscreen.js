@@ -21,7 +21,7 @@ const Loginscreen = () => {
     dispatch(loginUser(user));
   }
   return (
-    <div>
+    <div className="login">
       <div className="row justify-content-center mt-5">
         <div className="col-md-5 mt-5 shadow-lg p-3 mb-5 bg-white rounded">
           <h2 className="text-center m-2" style={{ fontSize: '35px' }}>
