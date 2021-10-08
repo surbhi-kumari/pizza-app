@@ -85,3 +85,9 @@ td {
   background-size: cover;
   height: 85vh;
 }
+.register {
+  background-image: url('./images//bg2.svg');
+  background-repeat: no-repeat !important;
+  background-size: cover;
+  height: 85vh;
+}
